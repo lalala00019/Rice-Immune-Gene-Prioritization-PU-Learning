@@ -1,4 +1,4 @@
-# Rice-Immune-Gene-Prioritization-PU-Learning
+
 # Rice Immune Gene Prioritization Using Positive-Unlabeled Learning
 
 A machine learning framework for identifying novel immune-associated genes in Oryza sativa under chitin-triggered immunity.
